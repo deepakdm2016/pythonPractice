@@ -1,0 +1,3 @@
+class duck:
+    def talk(self):
+        print("Quack Quack")

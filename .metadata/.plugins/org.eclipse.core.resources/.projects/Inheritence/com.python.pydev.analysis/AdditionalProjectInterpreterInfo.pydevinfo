@@ -1,0 +1,35 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\Deepak\PythonBnarath\.metadata\.plugins\org.eclipse.core.resources\.projects\Inheritence\com.python.pydev.analysis\v2_indexcache
+BMW|1570025594368683000|C:\Users\Deepak\PythonBnarath\Inheritence\BMW.py
+-- END DISKCACHE
+-- START DICTIONARY
+7
+6=BMW.__init__
+4=FiveSeries
+3=ThreeSeries
+5=ThreeSeries.__init__
+7=FiveSeries.__init__
+1=C:\Users\Deepak\PythonBnarath\Inheritence\BMW.py
+2=BMW
+-- END DICTIONARY
+-- START TREE 1
+5
+BT|1|BT!1^48#1*19@
+FS|1|FS!1^53#1*19@
+bmw|1|BMW!1^1#7*17@
+fiv|1|FiveSeries!1^31#7*17@
+thr|1|ThreeSeries!1^15#7*17@
+-- END TREE
+-- START TREE 2
+9
+__i|3|__init__!2&1^3#9*18@__init__!3&1^17#9*18@__init__!4&1^33#9*18@
+cru|1|cruised!5&1^19#9*19@
+mak|1|make!6&1^4#9*19@
+mod|1|model!6&1^5#9*19@
+ove|2|overRideDemo!3&1^21#9*18@overRideDemo!4&1^37#9*18@
+par|1|parking!7&1^35#9*19@
+sta|3|start!2&1^8#9*18@start!3&1^24#9*18@start!4&1^40#9*18@
+sto|3|stop!2&1^11#9*18@stop!3&1^27#9*18@stop!4&1^44#9*18@
+yea|1|year!6&1^6#9*19@
+-- END TREE

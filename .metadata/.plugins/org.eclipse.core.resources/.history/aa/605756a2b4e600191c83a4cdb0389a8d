@@ -1,0 +1,4 @@
+s=input("Please enter the string")
+
+m={}
+ for c in s

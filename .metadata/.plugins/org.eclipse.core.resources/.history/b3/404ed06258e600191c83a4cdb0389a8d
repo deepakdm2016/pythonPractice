@@ -1,0 +1,4 @@
+s=input("Please enter the string")
+
+lower=[c for c in s if c.islower()]
+lower=[c for c in s if c.ispper()]

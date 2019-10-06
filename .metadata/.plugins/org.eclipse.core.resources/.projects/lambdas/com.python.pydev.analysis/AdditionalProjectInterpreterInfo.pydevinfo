@@ -1,0 +1,33 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\Deepak\PythonBnarath\.metadata\.plugins\org.eclipse.core.resources\.projects\lambdas\com.python.pydev.analysis\v2_indexcache
+evenOrOdd|1570016288260328000|C:\Users\Deepak\PythonBnarath\lambdas\evenOrOdd.py
+filterEvenOrOdd|1570016734281600000|C:\Users\Deepak\PythonBnarath\lambdas\filterEvenOrOdd.py
+cube|1570016295973775000|C:\Users\Deepak\PythonBnarath\lambdas\cube.py
+doubleUsingMap|1570016937159330000|C:\Users\Deepak\PythonBnarath\lambdas\doubleUsingMap.py
+sumOfTwoNumbers|1570016438940248000|C:\Users\Deepak\PythonBnarath\lambdas\sumOfTwoNumbers.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+6=evenOrOdd
+1=C:\Users\Deepak\PythonBnarath\lambdas\sumOfTwoNumbers.py
+5=C:\Users\Deepak\PythonBnarath\lambdas\evenOrOdd.py
+7=C:\Users\Deepak\PythonBnarath\lambdas\doubleUsingMap.py
+10=filterEvenOrOdd
+4=cube
+9=C:\Users\Deepak\PythonBnarath\lambdas\filterEvenOrOdd.py
+2=sumOfTwoNumbers
+3=C:\Users\Deepak\PythonBnarath\lambdas\cube.py
+8=doubleUsingMap
+-- END DICTIONARY
+-- START TREE 1
+5
+add|1|add!1^1#5*18@
+cub|1|cube!3^1#5*34@
+f|3|f!3^7#1*35@f!1^6#1*19@f!5^1#1*51@
+li|2|li!7^2#1*67@li!9^1#1*83@
+res|2|result!9^3#1*83@res!7^4#1*67@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

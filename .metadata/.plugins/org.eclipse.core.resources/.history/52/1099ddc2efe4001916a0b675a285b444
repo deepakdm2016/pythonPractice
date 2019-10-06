@@ -1,0 +1,3 @@
+empId=int(input("enter student id"))
+empName=input("enter employees name")
+exp=float(input("Enter employees experience"))

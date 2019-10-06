@@ -1,0 +1,7 @@
+class duck:
+    def talk(self):
+        print("Quack Quack")
+
+class Human:
+    def talk(self):
+        print("Hello")

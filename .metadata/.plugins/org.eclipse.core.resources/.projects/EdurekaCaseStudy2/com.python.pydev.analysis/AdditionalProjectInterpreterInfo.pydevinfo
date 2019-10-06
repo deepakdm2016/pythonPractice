@@ -1,0 +1,65 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\Deepak\PythonBnarath\.metadata\.plugins\org.eclipse.core.resources\.projects\EdurekaCaseStudy2\com.python.pydev.analysis\v2_indexcache
+11|1570200781263600000|C:\Users\Deepak\PythonBnarath\EdurekaCaseStudy2\11.py
+1|1570198442345275000|C:\Users\Deepak\PythonBnarath\EdurekaCaseStudy2\1.py
+12|1570201210453763000|C:\Users\Deepak\PythonBnarath\EdurekaCaseStudy2\12.py
+2|1570198554066012000|C:\Users\Deepak\PythonBnarath\EdurekaCaseStudy2\2.py
+3|1570199251785418000|C:\Users\Deepak\PythonBnarath\EdurekaCaseStudy2\3.py
+4|1570199443799603000|C:\Users\Deepak\PythonBnarath\EdurekaCaseStudy2\4.py
+5|1570199707262276000|C:\Users\Deepak\PythonBnarath\EdurekaCaseStudy2\5.py
+6|1570199702328161000|C:\Users\Deepak\PythonBnarath\EdurekaCaseStudy2\6.py
+7|1570200294789294000|C:\Users\Deepak\PythonBnarath\EdurekaCaseStudy2\7.py
+8|1570200549290098000|C:\Users\Deepak\PythonBnarath\EdurekaCaseStudy2\8.py
+9|1570200658408146000|C:\Users\Deepak\PythonBnarath\EdurekaCaseStudy2\9.py
+-- END DISKCACHE
+-- START DICTIONARY
+22
+12=11
+18=12
+13=C:\Users\Deepak\PythonBnarath\EdurekaCaseStudy2\9.py
+7=C:\Users\Deepak\PythonBnarath\EdurekaCaseStudy2\2.py
+16=1
+17=C:\Users\Deepak\PythonBnarath\EdurekaCaseStudy2\12.py
+8=2
+15=C:\Users\Deepak\PythonBnarath\EdurekaCaseStudy2\1.py
+1=C:\Users\Deepak\PythonBnarath\EdurekaCaseStudy2\4.py
+3=C:\Users\Deepak\PythonBnarath\EdurekaCaseStudy2\3.py
+4=3
+2=4
+19=C:\Users\Deepak\PythonBnarath\EdurekaCaseStudy2\5.py
+11=C:\Users\Deepak\PythonBnarath\EdurekaCaseStudy2\11.py
+20=5
+22=6
+6=7
+9=C:\Users\Deepak\PythonBnarath\EdurekaCaseStudy2\8.py
+10=8
+5=C:\Users\Deepak\PythonBnarath\EdurekaCaseStudy2\7.py
+14=9
+21=C:\Users\Deepak\PythonBnarath\EdurekaCaseStudy2\6.py
+-- END DICTIONARY
+-- START TREE 1
+19
+a|1|a!1^1#1*19@
+cap|1|capitalLetters!3^10#1*35@
+cha|1|characters!5^4#1*51@
+d|1|d!7^1#1*67@
+dig|1|digits!3^9#1*35@
+ind|1|index!1^3#1*19@
+int|1|intsersection!9^4#1*83@
+l|2|l!11^1#1*99@l!13^1#1*115@
+l1|1|l1!9^1#1*83@
+l2|1|l2!9^2#1*83@
+m|1|m!5^3#1*51@
+num|2|nums!15^1#1*131@num!17^1#1*147@
+out|3|output!11^2#1*99@output!19^3#1*163@output!13^2#1*115@
+pwd|1|pwd!3^2#1*35@
+rev|1|reverse!21^4#1*179@
+s|3|s!19^1#1*163@s!21^1#1*179@s!5^1#1*51@
+sm|1|sm!17^2#1*147@
+sma|1|smallLetters!3^8#1*35@
+spl|1|splChars!3^11#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

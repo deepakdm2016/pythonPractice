@@ -1,0 +1,17 @@
+a,b=[int(x) for x in input("Enter two numbers").split()]
+try:
+    f=open("myFile","w")
+    c=a/b
+    print(c)
+    f.write("writing %d into a file",c)
+
+except ZeroDivisionError:
+    print("Division by 0 is not allowed")
+    
+finally:
+    f.close()
+    print("File is closed")
+
+
+    
+print("Division completed")

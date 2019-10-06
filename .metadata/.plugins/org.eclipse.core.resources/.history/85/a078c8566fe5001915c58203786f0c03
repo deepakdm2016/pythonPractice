@@ -1,0 +1,9 @@
+from abc import abstractmethod
+class TouchScreenLaptop:
+    
+    def __init__(self):
+        print("Touch screen laptop")
+        
+    @abstractmethod
+    def Scroll(self):
+        pass

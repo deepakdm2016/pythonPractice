@@ -1,0 +1,2 @@
+s=input("Enter words seperated by comma")
+s.split(",")

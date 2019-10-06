@@ -1,0 +1,9 @@
+dict1={1:"Vinithra",2:"Deepak",3:"Nagesh"}
+print(dict1)
+print(dict1.keys())
+print(dict1.values())
+keys=dict1.keys()
+for i in keys:
+    print(i)
+    
+print(dict1.items())

@@ -1,0 +1,6 @@
+def display():
+    def message():
+        return "Hello "
+    return message()
+
+print(display())

@@ -1,0 +1,5 @@
+from threading import Thread
+
+class myThread(Thread):
+    def run(self):
+        Thread.run(self) 

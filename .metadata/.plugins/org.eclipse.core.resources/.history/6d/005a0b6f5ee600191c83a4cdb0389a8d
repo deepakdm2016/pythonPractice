@@ -1,0 +1,2 @@
+def calculate(d=10,c=50,h=30):
+    

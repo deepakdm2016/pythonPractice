@@ -1,0 +1,26 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\Deepak\PythonBnarath\.metadata\.plugins\org.eclipse.core.resources\.projects\DBOperations\com.python.pydev.analysis\v2_indexcache
+readEMp|1570072826044651000|C:\Users\Deepak\PythonBnarath\DBOperations\readEMp.py
+InsertEmp|1570073647034856000|C:\Users\Deepak\PythonBnarath\DBOperations\InsertEmp.py
+DeleteEmp|1570073059673000000|C:\Users\Deepak\PythonBnarath\DBOperations\DeleteEmp.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+1=C:\Users\Deepak\PythonBnarath\DBOperations\DeleteEmp.py
+5=C:\Users\Deepak\PythonBnarath\DBOperations\InsertEmp.py
+3=C:\Users\Deepak\PythonBnarath\DBOperations\readEMp.py
+4=readEMp
+6=InsertEmp
+2=DeleteEmp
+-- END DICTIONARY
+-- START TREE 1
+4
+con|2|conn!1^4#1*19@conn!3^4#1*35@
+cur|2|cursor!1^9#1*19@cursor!3^9#1*35@
+del|1|delete!5^5#5*50@
+row|1|rows!3^19#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

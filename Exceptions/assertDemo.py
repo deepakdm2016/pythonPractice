@@ -1,0 +1,9 @@
+n=[int(x) for x in input("Enter a even number")]
+print(n)
+try:
+    assert n[0]%2==0,"you have entered an odd number"
+
+except AssertionError as obj:
+    print(obj)
+    
+print("After the assertion")

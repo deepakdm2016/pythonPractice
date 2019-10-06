@@ -1,0 +1,3 @@
+s=input("Enter words seperated by comma")
+sortedWords=s.split(",")
+i.sort(key=None, reverse=False)

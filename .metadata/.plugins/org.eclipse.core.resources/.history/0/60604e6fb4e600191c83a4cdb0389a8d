@@ -1,0 +1,4 @@
+s=input("Please enter the string")
+
+alphCount={}
+c for c in s

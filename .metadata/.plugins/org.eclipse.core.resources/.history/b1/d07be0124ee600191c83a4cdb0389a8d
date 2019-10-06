@@ -1,0 +1,8 @@
+import smtplib
+from email.mime.text import MIMEText
+
+body="This is a test email from python script. how are you"
+msg=MIMEText(body)
+msg['From']="dippud_m@yahoo.co.in"
+msg['To']="deepakdm2016@gmail.com"
+msg['Subject']="Email from Python"

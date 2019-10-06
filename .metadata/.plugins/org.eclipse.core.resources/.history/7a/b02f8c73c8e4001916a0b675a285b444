@@ -1,0 +1,6 @@
+#this is my first program
+print("Python is easy!!")
+""" Author is deepak
+All the best in learning"""
+x=int(input("Enter min number"))
+x=int(input("Enter min number"))

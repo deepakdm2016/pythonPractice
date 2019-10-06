@@ -1,0 +1,7 @@
+li=range(1,11)
+
+'''
+for i in li:
+    print(i**3)
+'''
+

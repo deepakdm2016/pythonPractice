@@ -1,0 +1,5 @@
+CRITICAL:root:Critical error
+ERROR:root:Error occured
+CRITICAL:root:Critical error
+ERROR:root:Error occured
+INFO:root:Information message

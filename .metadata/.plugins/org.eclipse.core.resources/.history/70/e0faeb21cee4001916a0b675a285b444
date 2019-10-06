@@ -1,0 +1,7 @@
+from test.time_hashlib import creatorFunc
+s="you are awesome"
+print(s)
+s1="""you are 
+the creator
+of your destiny"""
+print(s1)

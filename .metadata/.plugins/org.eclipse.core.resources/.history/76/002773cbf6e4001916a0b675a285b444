@@ -1,0 +1,8 @@
+if 10>20:
+    print("Deepak will succeed")
+    print("Deepal will help others succeed")
+else:
+    print("Vinithra will always help deepak")
+
+
+num=int(input("Enter a number"))

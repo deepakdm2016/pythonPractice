@@ -1,0 +1,2 @@
+f=open("myFile.txt",'w')
+print("Enter Text(Type # when you are done)")

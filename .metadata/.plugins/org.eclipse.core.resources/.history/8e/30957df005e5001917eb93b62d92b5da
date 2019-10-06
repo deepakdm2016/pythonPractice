@@ -1,0 +1,7 @@
+def display(num):
+    for i in lst:
+        print(i)
+        
+
+
+    

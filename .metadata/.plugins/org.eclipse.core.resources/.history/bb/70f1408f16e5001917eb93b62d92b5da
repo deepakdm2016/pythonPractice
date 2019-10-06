@@ -1,0 +1,8 @@
+class ObjectCounter:
+    noOfObjects=0
+    
+    def __init__(self):
+        ObjectCounter.noOfObjects+=1
+        
+    @staticmethod
+    def display():

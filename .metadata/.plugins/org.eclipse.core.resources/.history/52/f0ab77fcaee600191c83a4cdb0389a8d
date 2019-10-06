@@ -1,0 +1,8 @@
+s=input("Please enter the sentence")
+letterCount=0
+digitCount=0
+chars=[c for c in s]
+for c in chars:
+    if (c.test_isdigit()):
+        
+    print(c)

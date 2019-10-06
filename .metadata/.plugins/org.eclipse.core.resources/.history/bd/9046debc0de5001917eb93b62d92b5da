@@ -1,0 +1,4 @@
+import myMath
+
+print(myMath.add(3, 5))
+print(myMath.diff(3, 5))

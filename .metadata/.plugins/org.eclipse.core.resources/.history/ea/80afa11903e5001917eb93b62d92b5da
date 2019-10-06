@@ -1,0 +1,4 @@
+def average(n1,n2):
+    print("Average of two numbers is",(n1+n2)/2)
+    
+average(14,3)

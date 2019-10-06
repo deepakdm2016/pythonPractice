@@ -1,0 +1,2 @@
+s="Rise to vote, sir."
+s.lower()

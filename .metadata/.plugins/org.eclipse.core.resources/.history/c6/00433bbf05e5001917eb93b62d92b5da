@@ -1,0 +1,4 @@
+def display(lst):
+    for i in lst
+        print(i)
+    

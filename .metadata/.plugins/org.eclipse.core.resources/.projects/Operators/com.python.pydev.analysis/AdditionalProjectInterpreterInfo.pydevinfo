@@ -1,0 +1,25 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\Deepak\PythonBnarath\.metadata\.plugins\org.eclipse.core.resources\.projects\Operators\com.python.pydev.analysis\v2_indexcache
+assignmentOperators|1570002980483643000|C:\Users\Deepak\PythonBnarath\Operators\assignmentOperators.py
+arithmeticOp|1570002789679386000|C:\Users\Deepak\PythonBnarath\Operators\arithmeticOp.py
+comparision|1570003042072762000|C:\Users\Deepak\PythonBnarath\Operators\comparision.py
+logicalOperators|1570003197748019000|C:\Users\Deepak\PythonBnarath\Operators\logicalOperators.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+3=C:\Users\Deepak\PythonBnarath\Operators\logicalOperators.py
+1=C:\Users\Deepak\PythonBnarath\Operators\assignmentOperators.py
+2=assignmentOperators
+4=logicalOperators
+-- END DICTIONARY
+-- START TREE 1
+4
+c|1|c!1^2#1*19@
+d|1|d!1^2#3*19@
+x|1|x!3^1#1*35@
+y|1|y!3^2#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

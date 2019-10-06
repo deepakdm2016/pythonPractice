@@ -1,0 +1,5 @@
+import smtplib
+from email.mime.text import MIMEText
+
+body="This is a test email from python script. how are you"
+msg=

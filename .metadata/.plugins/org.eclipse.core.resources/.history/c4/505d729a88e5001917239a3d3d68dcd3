@@ -1,0 +1,5 @@
+import STudent,pickle
+
+f=open("student.dat",'wb')
+
+pickle.dump()

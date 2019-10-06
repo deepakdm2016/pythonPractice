@@ -1,0 +1,56 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\Deepak\PythonBnarath\.metadata\.plugins\org.eclipse.core.resources\.projects\EdurekaExercise\com.python.pydev.analysis\v2_indexcache
+a_15fsum_sum|1570159982601553000|C:\Users\Deepak\PythonBnarath\EdurekaExercise\a_15fsum_sum.py
+10_edExcercise|1570161806367008000|C:\Users\Deepak\PythonBnarath\EdurekaExercise\10_edExcercise.py
+a11_caseConvert|1570161510972256000|C:\Users\Deepak\PythonBnarath\EdurekaExercise\a11_caseConvert.py
+14_upperLower|1570160372412011000|C:\Users\Deepak\PythonBnarath\EdurekaExercise\14_upperLower.py
+6_edExercise|1570162755236651000|C:\Users\Deepak\PythonBnarath\EdurekaExercise\6_edExercise.py
+a6_factRec|1570162226525530000|C:\Users\Deepak\PythonBnarath\EdurekaExercise\a6_factRec.py
+8_mathExercise|1570163516062250000|C:\Users\Deepak\PythonBnarath\EdurekaExercise\8_mathExercise.py
+binaryDecimal|1570161921964089000|C:\Users\Deepak\PythonBnarath\EdurekaExercise\binaryDecimal.py
+12_remove_DuplicateWordsOrder|1570161423983491000|C:\Users\Deepak\PythonBnarath\EdurekaExercise\12_remove_DuplicateWordsOrder.py
+-- END DISKCACHE
+-- START DICTIONARY
+18
+3=C:\Users\Deepak\PythonBnarath\EdurekaExercise\8_mathExercise.py
+16=10_edExcercise
+18=a11_caseConvert
+6=a6_factRec
+4=8_mathExercise
+1=C:\Users\Deepak\PythonBnarath\EdurekaExercise\binaryDecimal.py
+9=C:\Users\Deepak\PythonBnarath\EdurekaExercise\6_edExercise.py
+13=C:\Users\Deepak\PythonBnarath\EdurekaExercise\12_remove_DuplicateWordsOrder.py
+12=a_15fsum_sum
+5=C:\Users\Deepak\PythonBnarath\EdurekaExercise\a6_factRec.py
+17=C:\Users\Deepak\PythonBnarath\EdurekaExercise\a11_caseConvert.py
+8=14_upperLower
+10=6_edExercise
+15=C:\Users\Deepak\PythonBnarath\EdurekaExercise\10_edExcercise.py
+2=binaryDecimal
+14=12_remove_DuplicateWordsOrder
+7=C:\Users\Deepak\PythonBnarath\EdurekaExercise\14_upperLower.py
+11=C:\Users\Deepak\PythonBnarath\EdurekaExercise\a_15fsum_sum.py
+-- END DICTIONARY
+-- START TREE 1
+16
+b|1|b!1^4#1*19@
+cal|1|calculate!3^2#5*34@
+fac|1|fact!5^1#5*50@
+i|1|i!1^1#1*19@
+low|1|lower!7^3#1*67@
+n|1|n!3^7#1*35@
+n1|1|n1!9^1#1*83@
+n2|1|n2!9^2#1*83@
+num|3|numbers!3^6#1*35@numbers!11^3#1*99@numbers!9^3#1*83@
+out|4|output!13^15#1*115@output!15^4#1*131@output!9^4#1*83@output!3^8#1*35@
+s|4|s!15^1#1*131@s!17^1#1*147@s!13^1#1*115@s!7^1#1*67@
+set|1|setOutput!9^5#1*83@
+sor|1|sortedWords!15^2#1*131@
+uni|1|uniqueWords!13^3#1*115@
+upp|1|upper!7^4#1*67@
+wor|1|words!13^2#1*115@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

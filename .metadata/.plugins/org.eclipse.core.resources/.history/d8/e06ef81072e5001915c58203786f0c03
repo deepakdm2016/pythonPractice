@@ -1,0 +1,7 @@
+a,b=[int(x) for x in input("Enter two numbers").split()]
+try:
+    c=a/b
+except ZeroDivisionError:
+    print("Division by 0 is not allowed")
+print(c)
+print("Division completed")

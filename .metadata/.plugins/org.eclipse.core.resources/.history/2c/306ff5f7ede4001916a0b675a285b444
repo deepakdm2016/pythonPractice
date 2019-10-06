@@ -1,0 +1,13 @@
+"""s=input()
+print(s,"is a good guy")
+bf=input("Enter your best friend's name")
+print(s,"'s best friend is",bf)
+"""
+
+"""
+i=int(input("Enter a integer number"))
+print(i,type(i))
+"""
+
+lst=input("Enter three numbers seperated by space").split(" ")
+print(lst)

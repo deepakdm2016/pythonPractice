@@ -1,0 +1,61 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\Deepak\PythonBnarath\.metadata\.plugins\org.eclipse.core.resources\.projects\Functions\com.python.pydev.analysis\v2_indexcache
+calculator|1570014055062083000|C:\Users\Deepak\PythonBnarath\Functions\calculator.py
+customGen|1570017987935411000|C:\Users\Deepak\PythonBnarath\Functions\customGen.py
+stringDecor|1570017811478198000|C:\Users\Deepak\PythonBnarath\Functions\stringDecor.py
+greeting|1570014567154671000|C:\Users\Deepak\PythonBnarath\Functions\greeting.py
+myMathDemo|1570018319641443000|C:\Users\Deepak\PythonBnarath\Functions\myMathDemo.py
+listFun|1570014864665449000|C:\Users\Deepak\PythonBnarath\Functions\listFun.py
+myMath|1570018182112066000|C:\Users\Deepak\PythonBnarath\Functions\myMath.py
+returnFunc|1570014769589072000|C:\Users\Deepak\PythonBnarath\Functions\returnFunc.py
+doubleDecor|1570017417166972000|C:\Users\Deepak\PythonBnarath\Functions\doubleDecor.py
+avaerage|1570015394250597000|C:\Users\Deepak\PythonBnarath\Functions\avaerage.py
+recursion|1570014998107006000|C:\Users\Deepak\PythonBnarath\Functions\recursion.py
+local_global|1570014329251049000|C:\Users\Deepak\PythonBnarath\Functions\local_global.py
+-- END DISKCACHE
+-- START DICTIONARY
+22
+6=calculator
+10=stringDecor
+14=greeting
+7=C:\Users\Deepak\PythonBnarath\Functions\customGen.py
+1=C:\Users\Deepak\PythonBnarath\Functions\myMath.py
+3=C:\Users\Deepak\PythonBnarath\Functions\avaerage.py
+15=C:\Users\Deepak\PythonBnarath\Functions\listFun.py
+21=C:\Users\Deepak\PythonBnarath\Functions\local_global.py
+8=customGen
+19=C:\Users\Deepak\PythonBnarath\Functions\recursion.py
+9=C:\Users\Deepak\PythonBnarath\Functions\stringDecor.py
+13=C:\Users\Deepak\PythonBnarath\Functions\greeting.py
+17=C:\Users\Deepak\PythonBnarath\Functions\returnFunc.py
+2=myMath
+16=listFun
+18=returnFunc
+5=C:\Users\Deepak\PythonBnarath\Functions\calculator.py
+12=doubleDecor
+4=avaerage
+11=C:\Users\Deepak\PythonBnarath\Functions\doubleDecor.py
+20=recursion
+22=local_global
+-- END DICTIONARY
+-- START TREE 1
+14
+add|1|add!1^6#5*18@
+ave|1|average!3^1#5*34@
+cal|1|calc!5^1#5*50@
+cus|1|customGen!7^1#5*66@
+dec|2|decor!9^1#5*82@decor!11^1#5*98@
+dif|1|diff!1^9#5*18@
+dis|3|display!13^1#5*114@display!15^1#5*130@display!17^1#5*146@
+fac|1|fact!19^1#5*162@
+fun|1|fun!17^6#1*147@
+hel|1|hello!9^8#5*82@
+loc|1|locGlobDemo!21^3#5*178@
+num|1|num!11^8#5*98@
+res|2|result!7^6#1*67@result!5^11#1*51@
+x|1|x!21^1#1*179@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

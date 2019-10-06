@@ -1,0 +1,6 @@
+s=input("Please enter the string")
+
+m={}
+characters=[c for c in s]
+
+for c in characters:

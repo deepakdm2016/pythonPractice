@@ -1,0 +1,5 @@
+empId=int(input("Enter three numbers seperated by space"))
+empName=input("enter employees name")
+exp=float(input("Enter employees experience"))
+
+print("Name of employee is",empName,"with employee id",empId,"having",exp,"years of Experience")

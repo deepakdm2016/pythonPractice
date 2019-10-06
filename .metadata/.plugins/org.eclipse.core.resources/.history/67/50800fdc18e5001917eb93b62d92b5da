@@ -1,0 +1,9 @@
+class Student:
+    def setId(self,Stid):
+        self.id=Stdid
+
+    
+
+s=Student()
+
+

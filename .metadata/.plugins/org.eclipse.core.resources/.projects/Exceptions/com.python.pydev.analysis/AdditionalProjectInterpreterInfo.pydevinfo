@@ -1,0 +1,32 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\Deepak\PythonBnarath\.metadata\.plugins\org.eclipse.core.resources\.projects\Exceptions\com.python.pydev.analysis\v2_indexcache
+assertDemo|1570062792593726000|C:\Users\Deepak\PythonBnarath\Exceptions\assertDemo.py
+loggingDemo|1570062305924655000|C:\Users\Deepak\PythonBnarath\Exceptions\loggingDemo.py
+exceptionHandleDemo|1570062538989555000|C:\Users\Deepak\PythonBnarath\Exceptions\exceptionHandleDemo.py
+customException|1570063468975849000|C:\Users\Deepak\PythonBnarath\Exceptions\customException.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+6=assertDemo
+8=InvalidPasswordException.__init__
+1=C:\Users\Deepak\PythonBnarath\Exceptions\exceptionHandleDemo.py
+3=C:\Users\Deepak\PythonBnarath\Exceptions\customException.py
+7=InvalidPasswordException
+2=exceptionHandleDemo
+4=customException
+5=C:\Users\Deepak\PythonBnarath\Exceptions\assertDemo.py
+-- END DICTIONARY
+-- START TREE 1
+5
+c|1|c!1^8#5*19@
+f|1|f!1^7#5*19@
+inv|1|InvalidPasswordException!3^13#7*33@
+n|1|n!5^1#1*51@
+pwd|1|pwd!3^20#5*35@
+-- END TREE
+-- START TREE 2
+2
+__i|1|__init__!7&3^14#9*34@
+msg|1|msg!8&3^15#9*35@
+-- END TREE

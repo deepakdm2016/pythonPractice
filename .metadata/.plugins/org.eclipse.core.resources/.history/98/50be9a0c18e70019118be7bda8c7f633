@@ -1,0 +1,9 @@
+from threading import *
+from time import *
+
+class Producer:
+    def __init__(self):
+        self.products=[]
+        self.ordersPlaced=False
+    
+    def produce(self):

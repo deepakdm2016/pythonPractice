@@ -1,0 +1,9 @@
+s1="Hello i am a good boy"
+print(len(s1.split()))
+
+output=""
+
+for c in s1:
+    output+=chr(ord(c))
+
+

@@ -1,0 +1,3 @@
+import time
+
+eposchsec=time.time()

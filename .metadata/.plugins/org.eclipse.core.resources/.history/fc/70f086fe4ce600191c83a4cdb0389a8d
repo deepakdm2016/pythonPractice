@@ -1,0 +1,5 @@
+import socket
+s=socket.socket()
+s.connect(("localhost",6767))
+f=input("Enter a file name")    
+s.close()

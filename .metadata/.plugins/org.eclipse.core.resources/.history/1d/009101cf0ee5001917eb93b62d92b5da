@@ -1,0 +1,11 @@
+#li=range(1,11)
+
+'''
+for i in li:
+    print(i**3)
+'''
+
+lst=[]
+lst=[x**3 for x in range (1,11)]
+for i in lst:
+    print(i)

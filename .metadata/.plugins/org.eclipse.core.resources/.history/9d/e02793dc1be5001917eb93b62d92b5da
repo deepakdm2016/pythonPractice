@@ -1,0 +1,17 @@
+class BMW:
+    
+    def __init__(self,make,model,year):
+        self.make=make
+        self.model=model
+        self.year=year
+        
+
+class ThreeSeries(BMW):
+    
+    def __init__(self,cruiseControlEnabled,make,model,year):
+        super(make,model,year)
+        self.cruiseControlEnabled=cruiseControlEnabled
+        
+
+BT=ThreeSeries("CruiseControlled","BMW-3","BMW-33",2019)
+print(BT.make,BT.model,BT.cruiseControlEnabled,BT.year)

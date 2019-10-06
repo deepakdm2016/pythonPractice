@@ -1,0 +1,10 @@
+import time,datTime
+from _datetime import datetime
+
+eposchsec=time.time()
+print(eposchsec)
+
+t=time.ctime(eposchsec)
+print(t)
+
+datetime.today()

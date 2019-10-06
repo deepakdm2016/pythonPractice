@@ -1,0 +1,66 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\Deepak\PythonBnarath\.metadata\.plugins\org.eclipse.core.resources\.projects\BasicPrograms\com.python.pydev.analysis\v2_indexcache
+productToList|1570011065399945000|C:\Users\Deepak\PythonBnarath\BasicPrograms\productToList.py
+studentDetails|1570005491326951000|C:\Users\Deepak\PythonBnarath\BasicPrograms\studentDetails.py
+continueDemo|1570011485472057000|C:\Users\Deepak\PythonBnarath\BasicPrograms\continueDemo.py
+checkWhileOdd|1570009947797685000|C:\Users\Deepak\PythonBnarath\BasicPrograms\checkWhileOdd.py
+checkWhile|1570009835033097000|C:\Users\Deepak\PythonBnarath\BasicPrograms\checkWhile.py
+funAsParameter|1570008186472156000|C:\Users\Deepak\PythonBnarath\BasicPrograms\funAsParameter.py
+assertDemo|1570011689740926000|C:\Users\Deepak\PythonBnarath\BasicPrograms\assertDemo.py
+execise|1570011978870475000|C:\Users\Deepak\PythonBnarath\BasicPrograms\execise.py
+multTable|1570011281562570000|C:\Users\Deepak\PythonBnarath\BasicPrograms\multTable.py
+primeOrNot|1570012368739982000|C:\Users\Deepak\PythonBnarath\BasicPrograms\primeOrNot.py
+averageOfThreeNumbers|1570005992001375000|C:\Users\Deepak\PythonBnarath\BasicPrograms\averageOfThreeNumbers.py
+breakDemo|1570011383574751000|C:\Users\Deepak\PythonBnarath\BasicPrograms\breakDemo.py
+forLoop|1570010579231923000|C:\Users\Deepak\PythonBnarath\BasicPrograms\forLoop.py
+productList|1570010612877173000|C:\Users\Deepak\PythonBnarath\BasicPrograms\productList.py
+-- END DISKCACHE
+-- START DICTIONARY
+24
+21=C:\Users\Deepak\PythonBnarath\BasicPrograms\execise.py
+1=C:\Users\Deepak\PythonBnarath\BasicPrograms\averageOfThreeNumbers.py
+9=C:\Users\Deepak\PythonBnarath\BasicPrograms\multTable.py
+6=studentDetails
+14=productToList
+8=checkWhileOdd
+4=funAsParameter
+24=checkWhile
+23=C:\Users\Deepak\PythonBnarath\BasicPrograms\checkWhile.py
+18=assertDemo
+5=C:\Users\Deepak\PythonBnarath\BasicPrograms\studentDetails.py
+22=execise
+10=multTable
+13=C:\Users\Deepak\PythonBnarath\BasicPrograms\productToList.py
+15=C:\Users\Deepak\PythonBnarath\BasicPrograms\breakDemo.py
+19=C:\Users\Deepak\PythonBnarath\BasicPrograms\forLoop.py
+3=C:\Users\Deepak\PythonBnarath\BasicPrograms\funAsParameter.py
+11=C:\Users\Deepak\PythonBnarath\BasicPrograms\primeOrNot.py
+12=primeOrNot
+2=averageOfThreeNumbers
+16=breakDemo
+20=forLoop
+7=C:\Users\Deepak\PythonBnarath\BasicPrograms\checkWhileOdd.py
+17=C:\Users\Deepak\PythonBnarath\BasicPrograms\assertDemo.py
+-- END DICTIONARY
+-- START TREE 1
+15
+ave|1|average!1^8#1*19@
+dis|1|display!3^1#5*34@
+emp|2|empName!5^2#1*51@empId!5^1#1*51@
+exp|1|exp!5^3#1*51@
+fn|1|fn!7^1#1*67@
+i|1|i!9^2#1*83@
+isp|1|isPrime!11^2#1*99@
+l|1|l!13^1#1*115@
+lis|1|list!15^1#1*131@
+ln|1|ln!7^2#1*67@
+nam|1|name!3^4#5*34@
+num|6|numbers!1^1#1*19@num!11^1#1*99@num!9^1#1*83@num!17^1#1*147@num!19^1#1*163@num!21^1#1*179@
+pro|1|product!13^2#1*115@
+sum|1|sum!1^3#1*19@
+x|1|x!23^1#1*195@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

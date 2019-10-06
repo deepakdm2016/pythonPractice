@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;basics/numericTypes&apos; to &apos;numericTypes.py&apos;" description="Rename resource &apos;numericTypes&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="numericTypes" name="numericTypes.py" stamp="1569988833432" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;basics/listType&apos; to &apos;listType.py&apos;" description="Rename resource &apos;listType&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="listType" name="listType.py" stamp="1569992727841" updateReferences="true"/>
+</session>

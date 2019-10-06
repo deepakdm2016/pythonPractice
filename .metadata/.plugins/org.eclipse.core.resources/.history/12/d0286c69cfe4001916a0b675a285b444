@@ -1,0 +1,31 @@
+s="you are awesome"
+print(s)
+
+#repetitition
+print(s*2)
+#you are awesomeyou are awesome
+
+#indexing
+print(s[0])
+
+#slising
+print("Slicing::",s[0:7])
+print("Slicing from 2 go upto end::",s[2:])
+print("Slicing from beginning go upto 8::",s[:8])
+#-1 is always last element
+print("Slicing from negative::",s[-3:-1])
+
+#step value in slicing
+print("Slicing with steps::",s[0:7:2])
+
+s="DeepakDM"
+print(len(s)::-1)
+
+s1="""you are 
+the creator
+of your destiny"""
+print(s1)
+
+#length of the string
+print(len(s1))
+

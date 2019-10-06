@@ -1,0 +1,2 @@
+dict1={1:"Vinithra",2:"Deepak",3:"Nagesh"}
+print(dict1)

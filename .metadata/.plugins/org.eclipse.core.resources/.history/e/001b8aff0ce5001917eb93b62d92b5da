@@ -1,0 +1,3 @@
+def customGen(x,y):
+    while x<y:
+        yield x

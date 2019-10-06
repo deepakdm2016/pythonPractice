@@ -1,0 +1,12 @@
+class Product:
+    def __init__(self):
+        self.name='iphone'
+        self.description='awesome'
+        self.price=700
+        
+
+p1=Product()
+print(p1.name,p1.description,p1.price)
+
+p2=Product()
+print(p2.name,p2.description,p2.price)

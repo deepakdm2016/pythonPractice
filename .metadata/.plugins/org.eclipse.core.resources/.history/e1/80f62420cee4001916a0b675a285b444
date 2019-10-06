@@ -1,0 +1,2 @@
+s="you are awesome"
+print(s)

@@ -1,0 +1,15 @@
+from threading import Thread
+
+def displayNumber():
+    
+
+if threading.current_thread()==threading.main_thread():
+    print("Executing main thread logic")
+else:
+    print("Executing other thread program")
+    for i in range(2,10):
+        print(i)
+        
+t=Thread(target=displayNumber())
+t.start()
+    

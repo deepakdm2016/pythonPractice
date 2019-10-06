@@ -1,0 +1,7 @@
+import math
+def calculate(d=10,c=50,h=30):
+    return int(math.sqrt((2*c*d)/h))
+    
+    
+input("Enter numbers seperated by comma")
+print(calculate(180))

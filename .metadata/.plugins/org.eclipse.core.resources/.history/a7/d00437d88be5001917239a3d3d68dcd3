@@ -1,0 +1,6 @@
+import mysql.connector
+from nntplib import port
+
+conn=mysql.connector.connect(host='localhost',database='mydbPython',port=3308,user="root",password="Winvini@2017")
+if conn.is_connected():
+    print("connected to mydbPython")

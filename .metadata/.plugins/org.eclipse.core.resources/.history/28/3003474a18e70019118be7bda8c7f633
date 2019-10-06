@@ -1,0 +1,19 @@
+from threading import *
+from time import *
+
+class Producer:
+    def __init__(self):
+        self.products=[]
+        self.ordersPlaced=False
+    
+    def produce(self):
+        for i in range(1,5):
+            self.products.append("Product"+i)
+            sleep(1)
+            print("Items added")
+        
+        self.ordersPlaced=True
+        
+
+class Consuler:
+    def __init__(self,prod):

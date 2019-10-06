@@ -1,0 +1,3 @@
+countries=["India","USA","United Kingdom","Australia"]
+countries.append("France")
+del(countries[2])

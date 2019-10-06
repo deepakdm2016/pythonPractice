@@ -1,0 +1,4 @@
+import myMath as ma
+
+print(ma.add(3, 5))
+print(ma.diff(3, 5))

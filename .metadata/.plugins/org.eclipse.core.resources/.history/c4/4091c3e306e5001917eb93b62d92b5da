@@ -1,0 +1,8 @@
+def average(n1,n2):
+    print(n1)
+    print(n2)
+    return(n1+n2)/2
+    
+    
+print("Average is",average(14,3))
+print("Average is",average(n2=5,n1=6))

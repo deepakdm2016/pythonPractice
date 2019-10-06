@@ -1,0 +1,5 @@
+f=open("myFile.txt",'w')
+print("Enter Text(Type # when you are done"))
+s=f.read()
+print(s)
+f.close()

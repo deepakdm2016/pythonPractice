@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;BasicPrograms/checkWhile,py&apos; to &apos;checkWhile.py&apos;" description="Rename resource &apos;checkWhile,py&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="checkWhile,py" name="checkWhile.py" stamp="1570009726007" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;BasicPrograms/productToList&apos; to &apos;productToList.py&apos;" description="Rename resource &apos;productToList&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="productToList" name="productToList.py" stamp="1570011010558" updateReferences="true"/>
+</session>

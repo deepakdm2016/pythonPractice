@@ -1,0 +1,5 @@
+import socket
+
+host='localhost'
+port=4000
+socket.socket()

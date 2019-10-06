@@ -1,0 +1,4 @@
+f=open("myFile.txt",'a')
+s=input("Enter the text")
+f.write(s)
+f.close()

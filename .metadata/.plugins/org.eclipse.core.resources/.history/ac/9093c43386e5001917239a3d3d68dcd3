@@ -1,0 +1,2 @@
+f=open("myFile.txt",'w')
+s=input("Enter the text")

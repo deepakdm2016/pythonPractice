@@ -1,0 +1,7 @@
+import time
+
+eposchsec=time.time()
+print(eposchsec)
+
+t=time.ctime(eposchsec)
+print(t)

@@ -1,0 +1,36 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\Deepak\PythonBnarath\.metadata\.plugins\org.eclipse.core.resources\.projects\EdurekaCaseStudy1\com.python.pydev.analysis\v2_indexcache
+1|1570196939548006000|C:\Users\Deepak\PythonBnarath\EdurekaCaseStudy1\1.py
+2|1570197102992122000|C:\Users\Deepak\PythonBnarath\EdurekaCaseStudy1\2.py
+3|1570197239221952000|C:\Users\Deepak\PythonBnarath\EdurekaCaseStudy1\3.py
+4|1570198058416464000|C:\Users\Deepak\PythonBnarath\EdurekaCaseStudy1\4.py
+5|1570198262115920000|C:\Users\Deepak\PythonBnarath\EdurekaCaseStudy1\5.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+6=1
+10=2
+4=3
+2=4
+8=5
+7=C:\Users\Deepak\PythonBnarath\EdurekaCaseStudy1\5.py
+9=C:\Users\Deepak\PythonBnarath\EdurekaCaseStudy1\2.py
+1=C:\Users\Deepak\PythonBnarath\EdurekaCaseStudy1\4.py
+3=C:\Users\Deepak\PythonBnarath\EdurekaCaseStudy1\3.py
+5=C:\Users\Deepak\PythonBnarath\EdurekaCaseStudy1\1.py
+-- END DICTIONARY
+-- START TREE 1
+8
+cha|1|chars!1^4#1*19@
+dig|1|digitCount!1^3#1*19@
+eve|1|evenNumbers!3^1#1*35@
+let|1|letterCount!1^2#1*19@
+num|1|num!5^1#1*51@
+out|1|output!7^3#1*67@
+s|3|s!1^1#1*19@s!7^1#1*67@s!9^1#1*83@
+sli|1|sList!9^2#1*83@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

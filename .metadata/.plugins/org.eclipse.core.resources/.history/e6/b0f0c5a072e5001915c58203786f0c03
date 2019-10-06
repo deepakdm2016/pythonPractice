@@ -1,0 +1,13 @@
+a,b=[int(x) for x in input("Enter two numbers").split()]
+try:
+    f=open("myFile","w")
+    c=a/b
+    print(c)
+    f.write(a,"divided by",b," is", c )
+
+except ZeroDivisionError:
+    print("Division by 0 is not allowed")
+
+
+    
+print("Division completed")

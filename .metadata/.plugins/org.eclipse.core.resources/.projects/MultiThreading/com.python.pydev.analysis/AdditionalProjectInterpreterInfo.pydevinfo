@@ -1,0 +1,68 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\Deepak\PythonBnarath\.metadata\.plugins\org.eclipse.core.resources\.projects\MultiThreading\com.python.pydev.analysis\v2_indexcache
+mainThread|1570240350497191000|C:\Users\Deepak\PythonBnarath\MultiThreading\mainThread.py
+usingSubclass|1570240946971841000|C:\Users\Deepak\PythonBnarath\MultiThreading\usingSubclass.py
+threadCommunication|1570243184076572000|C:\Users\Deepak\PythonBnarath\MultiThreading\threadCommunication.py
+threadCommunicationNotify|1570243551756694000|C:\Users\Deepak\PythonBnarath\MultiThreading\threadCommunicationNotify.py
+usingClass|1570241440562054000|C:\Users\Deepak\PythonBnarath\MultiThreading\usingClass.py
+threadDemo|1570240713819701000|C:\Users\Deepak\PythonBnarath\MultiThreading\threadDemo.py
+bookMyBus|1570242352702437000|C:\Users\Deepak\PythonBnarath\MultiThreading\bookMyBus.py
+-- END DISKCACHE
+-- START DICTIONARY
+22
+14=mainThread
+22=Consumer.__init__
+6=threadCommunicationNotify
+13=C:\Users\Deepak\PythonBnarath\MultiThreading\mainThread.py
+19=Producer.__init__
+12=usingClass
+1=C:\Users\Deepak\PythonBnarath\MultiThreading\bookMyBus.py
+17=BookMyBus
+20=myThread
+3=C:\Users\Deepak\PythonBnarath\MultiThreading\threadCommunication.py
+9=C:\Users\Deepak\PythonBnarath\MultiThreading\usingSubclass.py
+5=C:\Users\Deepak\PythonBnarath\MultiThreading\threadCommunicationNotify.py
+10=usingSubclass
+7=C:\Users\Deepak\PythonBnarath\MultiThreading\threadDemo.py
+15=Producer
+16=Consumer
+4=threadCommunication
+18=BookMyBus.__init__
+21=Producer.produce
+8=threadDemo
+11=C:\Users\Deepak\PythonBnarath\MultiThreading\usingClass.py
+2=bookMyBus
+-- END DICTIONARY
+-- START TREE 1
+15
+boo|1|BookMyBus!1^4#7*17@
+c|2|c!3^30#1*35@c!5^32#1*51@
+con|2|Consumer!5^20#7*49@Consumer!3^18#7*33@
+dis|1|displayNumber!7^3#5*66@
+eve|0|
+myt|2|myThread!9^3#7*81@myThread!11^4#7*97@
+nam|1|name!13^3#1*115@
+obj|2|obj!1^27#1*19@obj!11^11#1*99@
+odd|0|
+p|2|p!5^31#1*51@p!3^29#1*35@
+pro|2|Producer!5^4#7*49@Producer!3^4#7*33@
+t|3|t!7^10#1*67@t!9^9#1*83@t!11^13#1*99@
+t1|4|t1!1^29#1*19@t1!3^32#1*35@t1!5^34#1*51@t1!11^16#1*99@
+t2|4|t2!11^19#1*99@t2!3^33#1*35@t2!5^35#1*51@t2!1^30#1*19@
+t3|1|t3!1^31#1*19@
+-- END TREE
+-- START TREE 2
+11
+__i|5|__init__!15&5^5#9*50@__init__!16&5^21#9*50@__init__!17&1^5#9*18@__init__!15&3^5#9*34@__init__!16&3^19#9*34@
+ava|1|availableSeats!18&1^6#9*19@
+buy|1|buy!17&1^10#9*18@
+c|1|c!19&5^7#9*51@
+con|2|consume!16&5^24#9*50@consume!16&3^22#9*34@
+dis|1|displayNumbers!20&11^5#9*98@
+l|1|l!18&1^8#9*19@
+ord|2|ordersPlaced!19&3^7#9*35@ordersPlaced!21&3^14#9*35@
+pro|6|produce!15&5^9#9*50@products!19&5^6#9*51@prod!22&3^20#9*35@produce!15&3^9#9*34@prod!22&5^22#9*51@products!19&3^6#9*35@
+run|1|run!20&9^4#9*82@
+sel|0|
+-- END TREE

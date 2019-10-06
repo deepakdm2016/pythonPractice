@@ -1,0 +1,2 @@
+l=[12,24,35,70,88,120,155]
+[i for i in l if l.index(i)!=4 or l.index(i)!=0 or l.index(i)=5]

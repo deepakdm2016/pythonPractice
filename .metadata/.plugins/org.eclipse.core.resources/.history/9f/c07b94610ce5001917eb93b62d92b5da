@@ -1,0 +1,11 @@
+def decor(fun):
+    def inner():
+        res = fun(name)
+        return res, "How are you"
+    return inner
+
+@decor
+def hello(name):
+    return "hello ",name
+
+print(hello("Deepak"))

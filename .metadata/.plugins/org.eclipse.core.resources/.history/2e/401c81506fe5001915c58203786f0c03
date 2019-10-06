@@ -1,0 +1,4 @@
+class TouchScreenLaptop:
+    
+    def __init__(self):
+        print("Touch screen laptop")

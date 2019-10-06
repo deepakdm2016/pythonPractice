@@ -1,0 +1,14 @@
+from threading import *
+from time import *
+
+class BookMyBus:
+    def buy(self):
+        l=Lock()
+        print("Confirming a seat")
+        print("Processing the payment")
+        print("Printing the ticket")
+        
+obj=BookMyBus()
+t1=Thread(target=obj.buy())
+t2=Thread(target=obj.buy())
+t3=Thread(target=obj.buy())

@@ -1,0 +1,22 @@
+from threading import *
+from time import *
+
+class BookMyBus:
+    def __init__(self,availableSeats):
+        self.availableSeats=availableSeats
+        
+    def buy(self,seatsRequested):
+        
+        if(self.availableSeats>=seatsRequested):
+            print("Confirming a seat")
+            print("Processing the payment")
+            print("Printing the ticket")
+            self.availableSeats-=seatsRequested
+            
+        else:
+            print("Sorry, Bus is full. No seats available")
+        
+obj=BookMyBus()
+t1=Thread(target=obj.buy)
+t2=Thread(target=obj.buy)
+t3=Thread(target=obj.buy)

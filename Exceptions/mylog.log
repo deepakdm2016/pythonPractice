@@ -1,0 +1,11 @@
+CRITICAL:root:Critical error
+ERROR:root:Error occured
+INFO:root:Information message
+DEBUG:root:Debug message
+INFO:root:2.0
+INFO:root:No exceptions occured
+INFO:root:File is closed
+INFO:root:Division completed
+ERROR:root:Division by 0 is not allowed
+INFO:root:File is closed
+INFO:root:Division completed

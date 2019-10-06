@@ -1,0 +1,44 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\Deepak\PythonBnarath\.metadata\.plugins\org.eclipse.core.resources\.projects\Networking\com.python.pydev.analysis\v2_indexcache
+urllibdemo|1570154019241363000|C:\Users\Deepak\PythonBnarath\Networking\urllibdemo.py
+emailClient|1570156041988317000|C:\Users\Deepak\PythonBnarath\Networking\emailClient.py
+tcpipClient|1570155010327333000|C:\Users\Deepak\PythonBnarath\Networking\tcpipClient.py
+fileClient|1570155501084407000|C:\Users\Deepak\PythonBnarath\Networking\fileClient.py
+downloadImage|1570154271360085000|C:\Users\Deepak\PythonBnarath\Networking\downloadImage.py
+fileServer|1570155263509626000|C:\Users\Deepak\PythonBnarath\Networking\fileServer.py
+tcpipServer|1570154757128601000|C:\Users\Deepak\PythonBnarath\Networking\tcpipServer.py
+-- END DISKCACHE
+-- START DICTIONARY
+14
+5=C:\Users\Deepak\PythonBnarath\Networking\urllibdemo.py
+7=C:\Users\Deepak\PythonBnarath\Networking\fileServer.py
+2=emailClient
+4=fileClient
+9=C:\Users\Deepak\PythonBnarath\Networking\tcpipServer.py
+11=C:\Users\Deepak\PythonBnarath\Networking\tcpipClient.py
+1=C:\Users\Deepak\PythonBnarath\Networking\emailClient.py
+8=fileServer
+13=C:\Users\Deepak\PythonBnarath\Networking\downloadImage.py
+3=C:\Users\Deepak\PythonBnarath\Networking\fileClient.py
+6=urllibdemo
+12=tcpipClient
+14=downloadImage
+10=tcpipServer
+-- END DICTIONARY
+-- START TREE 1
+10
+bod|1|body!1^4#1*19@
+con|3|content!3^6#1*35@content!5^5#5*51@content!7^14#5*67@
+f|2|f!5^10#1*51@f!7^13#5*67@
+fil|2|filename!7^10#1*67@fileName!3^4#1*35@
+hos|2|host!7^3#1*67@host!9^3#1*83@
+msg|2|msg!11^4#1*99@msg!1^5#1*19@
+por|2|port!7^4#1*67@port!9^4#1*83@
+s|4|s!7^5#1*67@s!3^2#1*35@s!9^5#1*83@s!11^2#1*99@
+ser|1|server!1^10#1*19@
+url|2|url!13^3#1*115@url!5^4#5*51@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

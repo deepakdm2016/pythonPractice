@@ -1,0 +1,18 @@
+s=input("Please enter the string")
+words=s.split()
+uniqueWords={}
+print(type(uniqueWords))
+uniqueWords=set()
+print(type(uniqueWords))
+
+for w in words:
+    uniqueWords.add(w)
+#uniqueWords.sorted()
+print(uniqueWords)
+print(sorted(uniqueWords, key=None, reverse=False))
+
+sList=[sorted(uniqueWords, key=None, reverse=False)]
+output=""
+for s in sList:
+    output+=s+" "
+print(output)

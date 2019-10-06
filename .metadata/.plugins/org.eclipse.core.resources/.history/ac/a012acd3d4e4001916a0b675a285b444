@@ -1,0 +1,7 @@
+tpy=(1,3,5,7)
+print(tpy,type(tpy))
+print(tpy[3])
+print(tpy*3)
+print(tpy.count(3))
+tpy1=(1,)
+print(tpy1)

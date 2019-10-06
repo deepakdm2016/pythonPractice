@@ -1,0 +1,15 @@
+'''pwd=input("Enter the password")
+
+try:
+    assert len(pwd)==8,"Invalid password Exception, please enter password with 8 characters"
+
+except AssertionError as obj:
+    print(obj)
+    
+
+print("Password validation completed")
+'''
+
+class InvalidPasswordException(Exception):
+    def __init__(self,msg):
+        self.msg=msg

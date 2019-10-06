@@ -1,0 +1,7 @@
+class Flight:
+    
+    def __init__(self,engine):
+        self.engine=engine;
+        
+    def startEngine(self):
+        slef.engine.start()

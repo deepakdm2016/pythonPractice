@@ -1,0 +1,6 @@
+class Patient:
+    def setId(self,id):
+        self.id=id
+        
+    def getId(self):
+        return self.id

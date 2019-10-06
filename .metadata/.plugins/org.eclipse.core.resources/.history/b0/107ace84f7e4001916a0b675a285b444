@@ -1,0 +1,11 @@
+
+
+num=[for float(x) in x input("Enter the marks of Maths Physics Chemistry sperated by space").split(" ")]
+
+if num==0:
+    print("Entered number is zero")
+elif num%2==0 :
+    print(num,"is even")
+else:
+    print(num,"is odd number")
+    

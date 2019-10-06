@@ -1,0 +1,6 @@
+a,b=10,5
+print("addition",a+b)
+print("Subtraction",a-b)
+print("Division",a/b)
+print("Reminder",a%b)
+print("addition",a+b)

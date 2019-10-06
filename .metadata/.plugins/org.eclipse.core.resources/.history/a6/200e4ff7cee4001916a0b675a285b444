@@ -1,0 +1,24 @@
+s="you are awesome"
+print(s)
+
+#repetitition
+print(s*2)
+#you are awesomeyou are awesome
+
+#indexing
+print(s[0])
+
+#slising
+print("Slicing::",s[0:7])
+print("Slicing from 2 go upto end::",s[2:])
+print("Slicing from beginning go upto 8::",s[:8])
+
+
+s1="""you are 
+the creator
+of your destiny"""
+print(s1)
+
+#length of the string
+print(len(s1))
+

@@ -1,0 +1,11 @@
+class Student:
+    def setId(self,Stid):
+        self.id=Stid
+
+    def getId(self,Stid):
+        self.id=Stid
+
+
+s=Student()
+
+

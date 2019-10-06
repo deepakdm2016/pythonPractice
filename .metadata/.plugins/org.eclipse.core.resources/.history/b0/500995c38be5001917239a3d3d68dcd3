@@ -1,0 +1,6 @@
+import mysql.connector
+from imaplib import PASSWD
+
+conn=mysql.connector.connect(host='localhost',database='mydbPython',user="root",password="Winvini@2017")
+if conn.is_connected():
+    print("connected to mydbPython")

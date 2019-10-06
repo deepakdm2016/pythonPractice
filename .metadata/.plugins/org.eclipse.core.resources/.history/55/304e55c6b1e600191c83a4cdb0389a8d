@@ -1,0 +1,6 @@
+pwd=input("Please enter your new password")
+
+if len(pwd)<6 or pwd>12:
+    print("password length should be betwen 6 and 12")
+    
+    

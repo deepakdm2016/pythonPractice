@@ -1,0 +1,2 @@
+empId=int(input("enter student id"))
+empName=input("enter employees name")

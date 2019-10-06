@@ -1,0 +1,28 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\Deepak\PythonBnarath\.metadata\.plugins\org.eclipse.core.resources\.projects\printAndInput\com.python.pydev.analysis\v2_indexcache
+printFun|1570004007621131000|C:\Users\Deepak\PythonBnarath\printAndInput\printFun.py
+areaOfClircle|1570008065925965000|C:\Users\Deepak\PythonBnarath\printAndInput\areaOfClircle.py
+inputFun|1570004749843582000|C:\Users\Deepak\PythonBnarath\printAndInput\inputFun.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+3=C:\Users\Deepak\PythonBnarath\printAndInput\inputFun.py
+1=C:\Users\Deepak\PythonBnarath\printAndInput\printFun.py
+2=printFun
+6=areaOfClircle
+4=inputFun
+5=C:\Users\Deepak\PythonBnarath\printAndInput\areaOfClircle.py
+-- END DICTIONARY
+-- START TREE 1
+6
+a|1|a!1^4#1*19@
+b|1|b!1^5#1*19@
+lst|1|lst!3^12#1*35@
+mar|1|marks!1^9#1*19@
+nam|1|name!1^8#1*19@
+rad|1|radius!5^2#1*51@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

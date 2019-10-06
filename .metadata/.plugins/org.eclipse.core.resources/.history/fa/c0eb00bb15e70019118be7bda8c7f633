@@ -1,0 +1,10 @@
+from threading import *
+from time import *
+
+class BookMyBus:
+    def buy(self):
+        print("Confirming a seat")
+        print("Processing the payment")
+        print("Printing the ticket")
+        
+obj=BookMyBus()

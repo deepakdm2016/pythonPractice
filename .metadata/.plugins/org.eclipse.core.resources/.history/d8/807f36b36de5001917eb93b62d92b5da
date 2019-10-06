@@ -1,0 +1,13 @@
+from abc import abstractmethod,ABC
+
+class Car(ABC):
+    
+    def __init__(self,model,year):
+    
+    @abstractmethod
+    def drive(self):
+        pass
+    
+    @abstractmethod
+    def park(self):
+        pass

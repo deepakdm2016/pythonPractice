@@ -1,0 +1,13 @@
+s=input("Please enter the sentence")
+s.isa
+letterCount=0
+digitCount=0
+chars=[c for c in s]
+for c in chars:
+    if (c>='A' and c<='Z') :
+        digitCount+=1
+    else:
+        letterCount+=1
+    print(c)
+    
+print(letterCount, digitCount)

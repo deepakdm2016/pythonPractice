@@ -1,0 +1,7 @@
+import STudent,pickle
+
+f=open("student.dat",'wb')
+s=STudent.Student(123,"Deepak",100)
+pickle.dump(s,f)
+
+f.close()

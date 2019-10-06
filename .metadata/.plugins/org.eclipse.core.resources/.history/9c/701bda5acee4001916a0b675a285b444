@@ -1,0 +1,12 @@
+s="you are awesome"
+print(s)
+print(s*2)
+
+print(s[0])
+
+
+s1="""you are 
+the creator
+of your destiny"""
+print(s1)
+print(len(s1))

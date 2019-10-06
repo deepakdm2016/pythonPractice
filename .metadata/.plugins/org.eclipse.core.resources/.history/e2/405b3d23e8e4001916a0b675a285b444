@@ -1,0 +1,15 @@
+countries=["India","USA","United Kingdom","Australia"]
+print(countries)
+countries.append("France")
+print(countries)
+del(countries[2])
+print(countries)
+countries.insert(int(len(countries)/2), "England")
+print(countries)
+
+countriesSet={"India","USA","United Kingdom","Australia"}
+print(countriesSet)
+
+countriesSet.insert(int(len(countriesSet)/2), "England")
+print(countriesSet)
+

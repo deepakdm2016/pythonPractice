@@ -1,0 +1,5 @@
+from threading import Thread
+
+def displayNumber():
+    for in in range(2,10)
+    

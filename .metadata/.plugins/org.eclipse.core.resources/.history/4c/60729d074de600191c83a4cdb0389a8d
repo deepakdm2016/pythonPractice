@@ -1,0 +1,6 @@
+import socket
+s=socket.socket()
+s.connect(("localhost",6767))
+fileName=input("Enter a file name")    
+s.send(fileName.encode())
+s.close()

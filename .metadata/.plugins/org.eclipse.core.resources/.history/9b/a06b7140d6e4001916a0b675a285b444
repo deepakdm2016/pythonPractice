@@ -1,0 +1,12 @@
+st={10,20,50,"Deepak",10}
+print(st,type(st))
+
+st.update([88,99])
+print(st,type(st))
+
+#error print(st[0])
+#error print(st*3)
+
+#frozen set
+f=frozenset(st)
+print(f,type(f))

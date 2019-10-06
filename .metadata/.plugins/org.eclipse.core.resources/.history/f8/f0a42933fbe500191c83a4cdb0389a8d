@@ -1,0 +1,5 @@
+import re
+
+str="Take up one idea at one time"
+result=re.search(r'o\w\w', str)
+print(result.group())

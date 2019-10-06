@@ -1,0 +1,13 @@
+
+marks=[float(x) for x in input("Enter Math, Physics, Chemistry marks seperated by comma").split()]
+print(marks)
+
+ for m in marks:
+        total=total+m
+
+if (marks[0]<35 or marks[1]<35 or marks[2]<35):
+    print("you have failed in the examination")
+
+elif (
+   
+      )

@@ -1,0 +1,33 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\Deepak\PythonBnarath\.metadata\.plugins\org.eclipse.core.resources\.projects\Pickle\com.python.pydev.analysis\v2_indexcache
+pickleDump|1570071147125286000|C:\Users\Deepak\PythonBnarath\Pickle\pickleDump.py
+unPickle|1570071066836000000|C:\Users\Deepak\PythonBnarath\Pickle\unPickle.py
+STudent|1570070932272207000|C:\Users\Deepak\PythonBnarath\Pickle\STudent.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+1=C:\Users\Deepak\PythonBnarath\Pickle\unPickle.py
+2=unPickle
+4=pickleDump
+5=C:\Users\Deepak\PythonBnarath\Pickle\STudent.py
+6=STudent
+7=Student
+3=C:\Users\Deepak\PythonBnarath\Pickle\pickleDump.py
+8=Student.__init__
+-- END DICTIONARY
+-- START TREE 1
+4
+f|2|f!1^3#1*19@f!3^3#1*35@
+obj|1|obj!3^4#1*35@
+s|1|s!1^4#1*19@
+stu|1|Student!5^1#7*49@
+-- END TREE
+-- START TREE 2
+5
+__i|1|__init__!7&5^2#9*50@
+dis|1|display!7&5^7#9*50@
+id|1|id!8&5^3#9*51@
+mar|1|marks!8&5^5#9*51@
+nam|1|name!8&5^4#9*51@
+-- END TREE

@@ -1,0 +1,4 @@
+s=input("Please enter the sentence")
+
+chars=[c for c in range(s)]
+for c in chars:

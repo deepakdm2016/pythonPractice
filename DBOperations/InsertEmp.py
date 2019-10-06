@@ -1,0 +1,23 @@
+import mysql.connector
+from mysql.connector import cursor
+
+
+def delete(id):
+    conn=mysql.connector.connect(host='localhost',database='mydbPython',port=3308,user="root",password="Winvini@2017")
+    if conn.is_connected():
+        print("connected to mydbPython")
+    cursor=conn.cursor();
+    str="delete from emp where id=%d"
+    print(str)
+    args=id
+    try:
+        cursor.execute(str % args)
+        conn.commit()
+        print("Employee Deleted")
+    except:
+        conn.rollback()
+    finally:
+        cursor.close()
+        conn.close()
+        
+delete(3)

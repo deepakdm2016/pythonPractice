@@ -1,0 +1,7 @@
+s1="Hello i am a good boy"
+output=""
+for c in s1:
+    output+=chr(ord(c)+1)
+
+print(output)
+

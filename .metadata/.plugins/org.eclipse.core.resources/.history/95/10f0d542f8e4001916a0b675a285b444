@@ -1,0 +1,2 @@
+
+marks=[x for x in input("Enter Math, Physics, Chemistry marks seperated by comma").split()]

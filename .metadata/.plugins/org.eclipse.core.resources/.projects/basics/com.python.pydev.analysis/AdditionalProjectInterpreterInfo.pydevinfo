@@ -1,0 +1,69 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\Deepak\PythonBnarath\.metadata\.plugins\org.eclipse.core.resources\.projects\basics\com.python.pydev.analysis\v2_indexcache
+numericTypes|1569989462262390000|C:\Users\Deepak\PythonBnarath\basics\numericTypes.py
+palindrome|1570024888965324000|C:\Users\Deepak\PythonBnarath\basics\palindrome.py
+dictionary|1569994944996525000|C:\Users\Deepak\PythonBnarath\basics\dictionary.py
+rangeType|1569994557538735000|C:\Users\Deepak\PythonBnarath\basics\rangeType.py
+bytesAndArrays|1569994651656593000|C:\Users\Deepak\PythonBnarath\basics\bytesAndArrays.py
+stringType|1569992040173524000|C:\Users\Deepak\PythonBnarath\basics\stringType.py
+tupleType|1569993901967553000|C:\Users\Deepak\PythonBnarath\basics\tupleType.py
+countries|1570002189750426000|C:\Users\Deepak\PythonBnarath\basics\countries.py
+hello|1569988604442975000|C:\Users\Deepak\PythonBnarath\basics\hello.py
+arithmeticOp|1570002542145908000|C:\Users\Deepak\PythonBnarath\basics\arithmeticOp.py
+setType|1569994446698737000|C:\Users\Deepak\PythonBnarath\basics\setType.py
+listType|1569993168069184000|C:\Users\Deepak\PythonBnarath\basics\listType.py
+-- END DISKCACHE
+-- START DICTIONARY
+22
+18=rangeType
+4=bytesAndArrays
+5=C:\Users\Deepak\PythonBnarath\basics\countries.py
+7=C:\Users\Deepak\PythonBnarath\basics\dictionary.py
+11=C:\Users\Deepak\PythonBnarath\basics\hello.py
+14=tupleType
+6=countries
+10=setType
+9=C:\Users\Deepak\PythonBnarath\basics\setType.py
+16=listType
+13=C:\Users\Deepak\PythonBnarath\basics\tupleType.py
+17=C:\Users\Deepak\PythonBnarath\basics\rangeType.py
+2=numericTypes
+22=palindrome
+3=C:\Users\Deepak\PythonBnarath\basics\bytesAndArrays.py
+8=dictionary
+21=C:\Users\Deepak\PythonBnarath\basics\palindrome.py
+15=C:\Users\Deepak\PythonBnarath\basics\listType.py
+20=stringType
+19=C:\Users\Deepak\PythonBnarath\basics\stringType.py
+12=hello
+1=C:\Users\Deepak\PythonBnarath\basics\numericTypes.py
+-- END DICTIONARY
+-- START TREE 1
+22
+a|1|a!1^1#1*19@
+b|2|b!1^2#1*19@b!3^4#1*35@
+c|1|c!1^3#1*19@
+cou|2|countries!5^2#1*51@countriesSet!5^13#1*51@
+d|1|d!1^13#1*19@
+dic|1|dict1!7^1#1*67@
+e|1|e!1^17#1*19@
+f|2|f!1^20#1*19@f!9^11#1*83@
+g|1|g!1^23#1*19@
+h|1|h!1^26#1*19@
+i|1|i!11^7#1*99@
+key|1|keys!7^5#1*67@
+lst|3|lst!13^10#1*115@lst!15^1#1*131@lst!3^1#1*35@
+r|1|r!17^1#1*147@
+s|2|s!19^1#1*163@s!21^1#1*179@
+s1|1|s1!19^52#1*163@
+st|1|st!9^1#1*83@
+t|1|t!19^46#1*163@
+tpl|1|tpl!13^12#1*115@
+tpy|2|tpy!13^1#1*115@tpy1!13^7#1*115@
+x|2|x!11^5#1*99@x!1^10#1*19@
+y|1|y!11^6#1*99@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

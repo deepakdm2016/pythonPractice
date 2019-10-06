@@ -1,0 +1,11 @@
+s1="Hello i am a good boy"
+print(len(s1.split()))
+
+output=[ord(c)+1 for c in s1]
+print(output)
+
+for c in s1:
+    print(chr(ocd(c)+1))
+
+finaloutput=[chr(c) for c in output]
+print(finaloutput)

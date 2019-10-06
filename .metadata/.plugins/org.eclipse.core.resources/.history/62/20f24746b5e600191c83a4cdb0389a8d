@@ -1,0 +1,12 @@
+s=input("Please enter the string")
+
+m={}
+characters=[c for c in s]
+
+for c in characters:
+    if m.__contains__(c):
+        m.add(c,m.get(c)+1)
+    else:
+        m.add(c,1)
+        
+print(m)

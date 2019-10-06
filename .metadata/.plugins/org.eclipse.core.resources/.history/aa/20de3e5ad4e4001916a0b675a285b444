@@ -1,0 +1,4 @@
+tpy=(1,3,5,7)
+print(tpy,type(tpy))
+tpy1=(1)
+print(tpy1)

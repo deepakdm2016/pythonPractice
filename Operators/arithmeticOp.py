@@ -1,0 +1,7 @@
+a,b=10,5
+print("addition",a+b)
+print("Subtraction",a-b)
+print("Division",a/b)
+print("Reminder",a%b)
+print("Exponential",a**b)
+print("Floor(Integer) Division",a//b)

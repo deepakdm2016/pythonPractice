@@ -1,0 +1,3 @@
+import STudent,pickle
+
+f=open("student.dat",'wb')

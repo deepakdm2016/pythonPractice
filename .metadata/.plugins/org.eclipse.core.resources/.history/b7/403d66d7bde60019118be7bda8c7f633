@@ -1,0 +1,5 @@
+s1="Hello i am a good boy"
+print(len(s1.split()))
+
+output=[ord(c) for c in s1]
+print(output)

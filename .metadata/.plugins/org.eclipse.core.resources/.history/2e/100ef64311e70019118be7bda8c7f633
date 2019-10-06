@@ -1,0 +1,14 @@
+from datetime import *
+ldatesList=[]
+d1=(2019,10,5)
+d2=(2019,11,5)
+d3=(2017,10,5)
+
+ldatesList.append(d1)
+ldatesList.append(d2)
+ldatesList.append(d3)
+
+ldatesList.sort(key=None, reverse=False)
+for i in ldatesList:
+    print(i)
+

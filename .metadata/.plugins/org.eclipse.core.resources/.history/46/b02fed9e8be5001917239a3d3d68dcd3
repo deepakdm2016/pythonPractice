@@ -1,0 +1,4 @@
+import mysql.connector
+from imaplib import PASSWD
+
+conn=mysql.connector.connect(host='localhost',database='mydbPython',user="root",passwor="")

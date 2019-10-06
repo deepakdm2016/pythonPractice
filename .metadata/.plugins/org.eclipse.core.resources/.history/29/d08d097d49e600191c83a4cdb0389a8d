@@ -1,0 +1,4 @@
+import urllib.request
+
+url=urllib.request.urlopen("https://www.python.org/")
+content=url.read()

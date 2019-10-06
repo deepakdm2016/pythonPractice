@@ -1,0 +1,5 @@
+import math
+def calculate(d=10,c=50,h=30):
+    math.sqrt((2*c*d)/h)
+    
+print(calculate(10,4,5))

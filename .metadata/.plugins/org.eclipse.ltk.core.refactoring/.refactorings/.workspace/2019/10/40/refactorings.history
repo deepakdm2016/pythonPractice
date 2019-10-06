@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;flowControl.py&apos; to &apos;flowControl&apos;" description="Rename resource &apos;flowControl.py&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/flowControl.py" name="flowControl" stamp="1570008278536" updateReferences="true"/>&#x0A;<refactoring comment="Delete resource &apos;EdurekaCaseStudy2/Oct4&apos;" deleteContents="false" description="Delete resource &apos;EdurekaCaseStudy2/Oct4&apos;" element1="/EdurekaCaseStudy2/Oct4" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1570202113237"/>
+</session>

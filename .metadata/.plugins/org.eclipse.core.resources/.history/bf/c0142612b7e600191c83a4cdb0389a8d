@@ -1,0 +1,6 @@
+num=int(input("Please enter the number to calculate"))
+sm=0
+for i in num:
+    sm=sum+i/i+1
+
+print(sum)

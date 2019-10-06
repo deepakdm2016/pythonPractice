@@ -1,0 +1,27 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\Deepak\PythonBnarath\.metadata\.plugins\org.eclipse.core.resources\.projects\listComprehension\com.python.pydev.analysis\v2_indexcache
+prodOfLists|1570019044727383000|C:\Users\Deepak\PythonBnarath\listComprehension\prodOfLists.py
+commElementsOfList|1570019231747740000|C:\Users\Deepak\PythonBnarath\listComprehension\commElementsOfList.py
+cubeOfNumbers|1570018978638192000|C:\Users\Deepak\PythonBnarath\listComprehension\cubeOfNumbers.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+1=C:\Users\Deepak\PythonBnarath\listComprehension\cubeOfNumbers.py
+6=prodOfLists
+3=C:\Users\Deepak\PythonBnarath\listComprehension\commElementsOfList.py
+4=commElementsOfList
+2=cubeOfNumbers
+5=C:\Users\Deepak\PythonBnarath\listComprehension\prodOfLists.py
+-- END DICTIONARY
+-- START TREE 1
+5
+evl|1|evlst!1^13#1*19@
+l1|2|l1!3^1#1*35@l1!5^1#1*51@
+l2|2|l2!5^2#1*51@l2!3^2#1*35@
+l3|2|l3!3^3#1*35@l3!5^3#1*51@
+lst|1|lst!1^8#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

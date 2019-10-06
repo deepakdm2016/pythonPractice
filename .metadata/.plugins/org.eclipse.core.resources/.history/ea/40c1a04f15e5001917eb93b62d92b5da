@@ -1,0 +1,20 @@
+class Programmer:
+    def setName(self,n):
+        self.name=n
+    
+    def getName(self):
+        return self.name
+    
+    def setSalary(self,sal):
+        self.salary=sal
+    
+    def getSalary(self):
+        return self.salary    
+    
+    def setTechnologies(self,technologies):
+        self.technologies=technologies
+    
+    def getTechnologies(self):
+        return self.technologies
+    
+p1=Programmer()

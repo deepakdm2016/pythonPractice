@@ -1,0 +1,20 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\Deepak\PythonBnarath\.metadata\.plugins\org.eclipse.core.resources\.projects\commandLine\com.python.pydev.analysis\v2_indexcache
+prodCommLineDemo|1570013332694336000|C:\Users\Deepak\PythonBnarath\commandLine\prodCommLineDemo.py
+commLineDemo|1570013137630631000|C:\Users\Deepak\PythonBnarath\commandLine\commLineDemo.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+2=prodCommLineDemo
+4=commLineDemo
+3=C:\Users\Deepak\PythonBnarath\commandLine\commLineDemo.py
+1=C:\Users\Deepak\PythonBnarath\commandLine\prodCommLineDemo.py
+-- END DICTIONARY
+-- START TREE 1
+1
+l|2|l!1^2#1*19@l!3^2#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

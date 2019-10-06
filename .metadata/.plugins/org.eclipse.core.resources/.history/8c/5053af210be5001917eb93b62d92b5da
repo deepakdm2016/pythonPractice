@@ -1,0 +1,3 @@
+def decor(fun):
+    def inner():
+        res = fun()

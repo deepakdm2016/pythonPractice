@@ -1,0 +1,4 @@
+class Student:
+    def __init__(self):
+        self.id=123
+        self.name="John"

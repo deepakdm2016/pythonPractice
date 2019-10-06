@@ -1,0 +1,10 @@
+from threading import Thread, currentThread
+
+def displayNumber():
+    print(currentThread().getName())
+    for i in range(2,10):
+        print(i)
+        
+t=Thread(target=displayNumber())
+t.start()
+    

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;MultiThreading/threadDemo&apos; to &apos;threadDemo.py&apos;" description="Rename resource &apos;threadDemo&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="threadDemo" name="threadDemo.py" stamp="1570240394978" updateReferences="true"/>
+</session>

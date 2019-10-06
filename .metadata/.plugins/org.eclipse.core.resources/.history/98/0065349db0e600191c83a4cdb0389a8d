@@ -1,0 +1,2 @@
+s=input("please enter string/number to check if it's a palindrome or not")
+s[::-1]

@@ -1,0 +1,5 @@
+import mysql.connector
+
+conn=mysql.connector.connect(host='localhost',database='mydbPython',port=3308,user="root",password="Winvini@2017")
+if conn.is_connected():
+    print("connected to mydbPython")
